@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="crystals-go" width="880"></p>
+
 ![Abandoned](https://img.shields.io/badge/Status-Unmaintained-blue)
 # Go Post Quantum Safe Lib
 
